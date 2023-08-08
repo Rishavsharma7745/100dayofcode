@@ -14,7 +14,7 @@ print("Rishav" + " " + "Sharma")
 
 #input function ie to enter an input
 
-print("Welcom " + input("Enter your name\n") + "on our website")
+print("Welcome " + input("Enter your name\n") + "on our website")
 
 #excercise swaping numbers
 
