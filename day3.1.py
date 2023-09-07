@@ -27,25 +27,25 @@ print("Your mission is to find the treasure.")
 
 #Write your code below this line 👇
 
-route_1 = input("You want to go right or left? ")
+# route_1 = input("You want to go right or left? ")
 
-route_1_l = route_1.lower()
+# route_1_l = route_1.lower()
 
-if route_1_l == "left":
-    route_2 = input("You want to swim or wait? ")
-    route_2_l = route_2.lower()
-    if route_2_l == "wait":
-        door = input("Which door? Red or Blue or Yellow: ")
-        door_l = door.lower()
-        if door_l == "yellow":
-            print("You win!")
-        elif door_l == "blue":
-            print("Eaten by Beast Game over")
-        elif door_l == "red":
-            print("Burned by fire Game over")
-        else:
-            print("Game over")
-    else :
-        print("Attached by trout Game over")
-else:
-    print("Fall into a hole game over")
+# if route_1_l == "left":
+#     route_2 = input("You want to swim or wait? ")
+#     route_2_l = route_2.lower()
+#     if route_2_l == "wait":
+#         door = input("Which door? Red or Blue or Yellow: ")
+#         door_l = door.lower()
+#         if door_l == "yellow":
+#             print("You win!")
+#         elif door_l == "blue":
+#             print("Eaten by Beast Game over")
+#         elif door_l == "red":
+#             print("Burned by fire Game over")
+#         else:
+#             print("Game over")
+#     else :
+#         print("Attached by trout Game over")
+# else:
+#     print("Fall into a hole game over")
