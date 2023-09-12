@@ -21,3 +21,20 @@
 # for num in range(count):
 #     display.append("_")
 # print(display)
+
+
+# def function(name,year):
+#     print(f"my name is {name}")
+#     print(f"I am {year} years old")
+
+# function("Rishav","24")
+
+# num = int(input("Enter a num: "))
+# for multiple in range(1, num+1):
+#     is_prime = True
+#     if num % multiple ==  0:
+#         is_prime = False
+# if is_prime:
+#     print("Not prime no")
+# else:
+#     print("Prime no")
